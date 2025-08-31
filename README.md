@@ -2,8 +2,8 @@
 ![Captura de pantalla del proyecto](https://github.com/MAyusoEH/Linux-Escaneo-Actividad/blob/main/pic_procscan.png)
 
 
-## ¿Qué hace este?:
-Arregla el error anterior.
+## ¿Qué hace este script?:
+Este script es un monitor de procesos en tiempo real que detecta cambios en los procesos del sistema.
 
 ## Cómo usar:
 
